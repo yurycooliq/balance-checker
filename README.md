@@ -1,2 +1,2 @@
-# balance-checker.github.io
-Check Ethereum balance
+# yurycooliq.github.io/eth-wallet/
+Check Ethereum balance and send ETH and tokens.
